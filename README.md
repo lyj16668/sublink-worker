@@ -3,7 +3,7 @@
   <h5><i>Serverless 自部署订阅转换工具最佳实践</i></h5>
   
   <a href="https://trendshift.io/repositories/12291" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12291" alt="7Sageer%2Fsublink-worker | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/12291" alt="lyj16668%2Fsublink-worker | Trendshift" width="250" height="55"/>
   </a>
   
   <!-- <p>
@@ -109,10 +109,10 @@ npm run deploy
 
 感谢所有为本项目点亮 Star 的朋友们！🌟
 
-<a href="https://star-history.com/#7Sageer/sublink-worker&Date">
+<a href="https://star-history.com/#lyj16668/sublink-worker&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lyj16668/sublink-worker&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lyj16668/sublink-worker&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lyj16668/sublink-worker&type=Date" />
  </picture>
 </a>
